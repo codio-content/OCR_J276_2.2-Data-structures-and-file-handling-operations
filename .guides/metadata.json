@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "80576acb-a956-cc67-6b93-867a614b627b",
+   "title": "Data structures and file handling operations",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Data-structures-and-file-handling-operations-8057.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ec20c261-f976-519f-f264-dadd3749942d",
+   "title": "Arrays",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Arrays-ec20.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a8c7e3df-71c8-3bb7-97cd-cdd7ee3d9e4d",
+   "title": "Two dimensional (2D) arrays",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Two-dimensional--2D--arrays-a8c7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "eabc3033-395c-d141-0687-3c3194f978c0",
+   "title": "The use of basic file handling operations",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-use-of-basic-file-handling-operations-eabc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3b1a0904-99c5-eb4e-c6ec-d2f2d85e2f12",
+   "title": "Records",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Records-3b1a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "606621d8-15a7-8ee3-c90e-639cce5211d2",
+   "title": "Databases",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Databases-6066.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "116e6072-7584-9749-47be-6e91ab7e70a7",
+   "title": "SQL – Structured Query Language",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/SQL---Structured-Query-Language-116e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "25f524f8-4acb-1dc2-eff7-6675792a6ec3",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-25f5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4748f4dc-05db-7260-bf7d-53ae78bd883a",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-4748.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

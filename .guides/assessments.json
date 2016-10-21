@@ -1,0 +1,66 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3329431206",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "A student has created an array to store their computer science marks.\n```\ncomputerScience[6, 8, 9, 3, 5, 7, 10, 2, 4]\n```\n",
+   "points": "1",
+   "showValues": false,
+   "text": "**What numbers are returned from the following commands.**\n```computerScience.length``` = <<<9>>>\n```print(computerScience[3])``` = <<<3>>>\n```print(computerScience[2] * computerScience[6])``` = <<<90>>>\n\n**Write down the command that would return the number 9** = <<<print(computerScience[2])>>>",
+   "tokens": {
+    "blank": [
+     "9",
+     "3",
+     "90",
+     "print(computerScience[2])"
+    ],
+    "text": [
+     "**What numbers are returned from the following commands.**\n```computerScience.length``` = ",
+     0,
+     "\n```print(computerScience[3])``` = ",
+     0,
+     "\n```print(computerScience[2] * computerScience[6])``` = ",
+     0,
+     "\n\n**Write down the command that would return the number 9** = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-932537047",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "A student has stored all of his computer science marks in an array called ‘computerScienceMarks’  and has written some code to store them in a text file.\nThe routine consisted of 5 lines of code.\nIn the following table select the correct commands for each of the line numbers.",
+   "points": "1",
+   "showValues": true,
+   "text": "|**Line number** |**Commands**| \n| :------ | :----------- |\n|1| <<<marksFile = openWrite(“marksFile”)>>>|\n|2|<<<for index = 0 to computerScieneMarks.length – 1>>>|\n|3|<<<marksFile.writeLine(computerScienceMarks[index])>>>|\n|4|<<<next index>>>|\n|5|<<<friendsFile.close()>>>|",
+   "tokens": {
+    "blank": [
+     "marksFile = openWrite(“marksFile”)",
+     "for index = 0 to computerScieneMarks.length – 1",
+     "marksFile.writeLine(computerScienceMarks[index])",
+     "next index",
+     "friendsFile.close()"
+    ],
+    "text": [
+     "|**Line number** |**Commands**| \n| :------ | :----------- |\n|1| ",
+     0,
+     "|\n|2|",
+     0,
+     "|\n|3|",
+     0,
+     "|\n|4|",
+     0,
+     "|\n|5|",
+     0,
+     "|"
+    ]
+   }
+  }
+ }
+]
